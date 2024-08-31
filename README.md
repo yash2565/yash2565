@@ -62,6 +62,8 @@
 - **LinkedIn**: [Yash Musmade](https://www.linkedin.com/in/yash-musmade-8310b71b9/)
 - **GitHub**: [yash2565](https://github.com/yash2565)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash2565&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash2565&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash2565&show_icons=true&theme=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash2565&layout=compact&theme=white)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash2565&" alt="yash2565" /></p>
 
