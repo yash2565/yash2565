@@ -1,23 +1,5 @@
 # 👋 Hello, I'm Yash Musmade
 
-
-## 🎓 Education
-- **B. Tech in Information Technology Engineering**  
-  Shri Chhatrapati Shivaji College, Kopargaon  
-  (7.3 CGPA) | *2021 - Present*
-- **Junior College**  
-  Shri Chhatrapati Shivaji Junior College, Deolali Pravara  
-  (74.50%) | *2020 - 2021*
-- **High School**  
-  De Paul English Medium School, Rahuri Factory  
-  (80.40%) | *2018 - 2019*
-
-## 💼 Experience
-- **Hackathon Participant**  
-  *L&T’s Techgium Hackathon, Jan-March 2024*  
-  - Project: Identification of Flood Prone Areas in Urban Settlements  
-    (Machine Learning Based, Semi-Finalist)
-
 ## 🛠️ Projects
 - **Identification of Flood Prone Areas in Urban Settlements**  
   - Machine Learning, Data Cleaning, Model Training (Random Forest)
@@ -30,23 +12,8 @@
 - **Diyan Universal School Ozar Website**  
   - Backend: PHP | Frontend: HTML, CSS, JavaScript | Frameworks: Bootstrap
 
-## 🔧 Skills
-- **Languages**: Python (Basic), C++, Java, SQL, HTML, CSS, JavaScript  
-- **Tools**: Git, GitHub, VSCode  
-- **Soft Skills**: Leadership, Teamwork, Event Management
 
-## 🏆 Certifications
-- **Java Certification Exam (Silver Medal)** by IIT Kharagpur (NPTEL)
-- **Database Management System** (60% in NPTEL Exam)
-- **Generative AI** by Coursera
-- **OOPS in C++** by Infosys Springboard
-- **Machine Learning for All** by Coursera
-
-## 🌟 Achievements
-- Led a team to the Semi-Finals of L&T Techgium Hackathon
-- Participated in National Level Hackathons like Dipex, Borosa, Tata Imagination
-
-- ## 🌐 Connect with Me
+## 🌐 Connect with Me
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yash2565&style=flat-square&color=blue" alt="Profile Views" style="margin-right: 10px;" />
   <img src="https://img.shields.io/github/followers/yash2565?label=Follow&style=social" alt="GitHub Followers" style="margin-right: 10px;" />
