@@ -62,8 +62,25 @@
 - **LinkedIn**: [Yash Musmade](https://www.linkedin.com/in/yash-musmade-8310b71b9/)
 - **GitHub**: [yash2565](https://github.com/yash2565)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash2565&show_icons=true&theme=white)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash2565&layout=compact&theme=white)
+# My Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash2565&" alt="yash2565" /></p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=yash2565&show_icons=true&theme=white" alt="GitHub Stats" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash2565&layout=compact&theme=white" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://leetcard.jacoblin.cool/Yash_Musmade?theme=light&font=Baloo%202" alt="LeetCode Stats" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash2565&theme=white" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
 
